@@ -1,2 +1,2 @@
-# advent-2024
-advent of code 2024 solutions. happy holidays!
+# Advent of Code: 2024
+My solutions for 2024's Advent of Code problems. Happy holidays!
